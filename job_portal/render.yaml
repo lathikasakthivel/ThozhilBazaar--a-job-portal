@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: job-portal
+    runtime: python
+    buildCommand: poetry install --no-root
+    startCommand: poetry run gunicorn app:app
+    envVars:
+      - key: SECRET_KEY
+        value: your-secret-key
+      - key: DATABASE_URL
+        value: your-database-url
