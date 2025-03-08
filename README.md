@@ -53,14 +53,14 @@ Thozhil Bazaar is a **local job portal** designed to **reduce unemployment in Ta
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login_tamil.png)
-![Login Page](screenshots/login_english.png)
+![Login Page](job_portal/screenshots/login_tamil.png)
+![Login Page](job_portal/screenshots/login_english.png)
 
 ### Job Listing Page
-![Job Listing Page](screenshots/job_listing_filtering.png)
+![Job Listing Page](job_portal/screenshots/job_listing_filtering.png)
 
 ### Application Chat
-![Application Chat](screenshots/sample_chat.png)
+![Application Chat](job_portal/screenshots/sample_chat.png)
 
 ---
 
