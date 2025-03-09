@@ -1,6 +1,7 @@
 # Thozhil Bazaar - தொழில் பசார்
 
-Thozhil Bazaar is a **local job portal** designed to **reduce unemployment in Tamil Nadu** by connecting job seekers and employers in **Tier 2 & Tier 3 cities**. It provides an accessible, bilingual (Tamil & English) platform that simplifies job searching and hiring.
+Thozhil Bazaar is a **local job portal** designed to **reduce unemployment in Tamil Nadu** by connecting job seekers and employers in **Tier 2 & Tier 3 cities**. It provides an accessible, bilingual (Tamil & English) platform that simplifies job searching and hiring and also provides direct employer-applicant communication.
+
 
 ---
 
@@ -66,25 +67,6 @@ Thozhil Bazaar is a **local job portal** designed to **reduce unemployment in Ta
 
 ## 🔧 Installation & Deployment
 - **Web App** (Mobile version under development)
-- **Installation Guide (Coming Soon)**
-
----
-
-## 📅 Future Enhancements
-### 🔜 Phase 1 (Next 3-6 Months)
-- **Mobile App Launch** (Android & iOS)
-- **AI-Powered Job Matching**
-- **Job Alerts & Notifications**
-
-### 🔜 Phase 2 (6-12 Months)
-- **Video Interviews** Integration
-- **Skill Development Programs** Collaboration
-- **Employer Verification & Ratings**
-
-### 🔜 Phase 3 (1-2 Years)
-- **Multi-Language Support**
-- **Advanced Analytics for Employers**
-- **Government Schemes Integration**
 
 ---
 
@@ -95,3 +77,7 @@ We are working on making **Thozhil Bazaar open for contributions**. Stay tuned!
 
 ## 📩 Contact
 For inquiries, feedback, or collaborations, reach out to us at **thozhilbazaar@gmail.com**.
+
+**Thozhil Bazaar is not just a job portal—it's a movement towards a more connected, employed, and thriving community!**
+
+
