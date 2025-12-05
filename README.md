@@ -1,7 +1,5 @@
 # Thozhil Bazaar - தொழில் பசார்
 Thozhil Bazaar is a **local job portal** designed to **reduce unemployment in Tamil Nadu** by connecting job seekers and employers in **Tier 2 & Tier 3 cities**. It provides an accessible, bilingual (Tamil & English) platform that simplifies job searching and hiring and also provides direct employer-applicant communication.
-
-
 ---
 
 ## 🚀 Project Overview
